@@ -13,3 +13,18 @@ to make sure i have one commit per logical change i can compare the
 files in the staging area to those in the last commit 
 using "git diff --staged" and then observe the changes in the code 
 from the last commit.
+
+crating branches will help keeping my history organized when i want
+to create a diffrent version of my program, like for new language
+or adding a new test feature that i'm not sure i want to use
+in the final product. this way i can modify and commit changes to this 
+version without affecting my master branch.
+
+diagrams help me see the entire hirarchy of the repository and
+it's branches.
+
+marging two branches together created a new commit labeled with the 
+first branch argument (in our case master) with two parents, 
+the tip of coins and the tip of master. the new commit 
+present the changes made in both branches to a single commit and
+that is why we merging them together in the diagram.
