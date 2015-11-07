@@ -1,0 +1,4 @@
+when I initialize a repository I can start to keep track
+on the changes i make to the diffrent files in it and so 
+i can always compare the diffrent commits i make and 
+return to them if i choose to.
