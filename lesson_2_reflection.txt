@@ -8,3 +8,8 @@ files related to it are in. the repository on the other hand,
 saves all the commits I make. before I make a commit i can add the files
 i want to the staging area and also add a comment and only then
 create a new commit.
+
+to make sure i have one commit per logical change i can compare the
+files in the staging area to those in the last commit 
+using "git diff --staged" and then observe the changes in the code 
+from the last commit.
