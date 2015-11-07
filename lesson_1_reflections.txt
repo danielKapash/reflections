@@ -1,0 +1,33 @@
+viewing a diff between the two code versions helped me clearly see the
+diffrent lines in each version and by that notice the glitch in the new 
+version. The word "spacr" jumped out of the code and it was clear
+to see the misspell.
+
+having an easy access to the entire history of a file can help me to 
+clealry observe changes in the file and examine their effect on the
+file. This option enable more flexibility in the long term because it 
+enable the inspecter to notice each change made and decide wether it
+was effective or not.
+
+manually choose when to commit:
+pros:
+- commit to logic changes
+- not commiting in a middle of a change
+- you can describe you're commit.
+cons:
+- can forget to commit for a lot of time.
+- requires a lot of self disciplane.
+- takes time and effort.
+
+Git allow to save multiple files wich are connected at once because 
+it's a code VC, and most of the times, program codes have a few 
+interlinked files that make sense to save together, unlike google 
+docs which mainly deals with simple text and presentation files.
+
+I can use the Gil log and Git diff commands whenever i want to check 
+and see the diffrent commits i made and the changes between them.
+
+now tht i know that i can easily check for bugs in diffrent commits i made in the past and even see the actual change in code i do not need
+to be afraid to make changes that might break somthing! :)
+
+From now on I'll try to use Git to manage my version control.
